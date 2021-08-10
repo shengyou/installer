@@ -1,15 +1,15 @@
 # Software
 
 * Browsers
-  - Microsoft Edge (built-in)
   - Google Chrome
   - Firefox
 * IMs
   - LINE
   - Slack
-  - WeChat (**failed**)
   - Telegram Desktop
   - Microsoft Teams
+  - WhatsApp
+  - WeChat (**failed**)
   - 钉钉 (**failed**)
   - 腾讯 QQ (**failed**)
 * Meeting
@@ -30,8 +30,8 @@
   - Camtasia (**failed**)
   - Snagit
 * Network disc
-  - Google Drive (**failed**)
-  - Dropbox (don't need)
+  - [Google Drive](https://www.google.com/drive/download/) (**failed**)
+  - ~~Dropbox~~
 * Development tools
   - JetBrains Toolbox App
   - Docker Desktop
@@ -41,7 +41,10 @@
   - Netflix
   - Ubuntu
 * Software that need to install manually
-  - Microsoft Office
+  - Boshiamy
+  - Microsoft Office [https://www.facebook.com/groups/msmvptw/permalink/10156002475736243/]()
   - JetBrains IDEs by Toolbox app
   - WSL 2 ([En](https://docs.microsoft.com/en-us/windows/wsl/install-win10#manual-installation-steps) | [Zh](https://docs.microsoft.com/zh-tw/windows/wsl/install-win10#manual-installation-steps))
   - WD Discovery
+* Software that built-in
+  - Microsoft Edge
