@@ -9,22 +9,22 @@ brew install --cask google-chrome
 brew install --cask firefox
 
 # IMs
-#mas install # LINE
-#mas install # Slack for Desktop
-#mas install # Telegram
+mas install 539883307 # LINE
+mas install 803453959 # Slack for Desktop
+mas install 747648890 # Telegram
 brew install --cask microsoft-teams
 brew install --cask whatsapp
 brew install --cask skype
-#mas install # WeChat
-#mas install # 钉钉
-#mas install # 腾讯 QQ
+mas install 836500024 # WeChat
+mas install 1435447041 # 钉钉
+mas install 451108668 # 腾讯 QQ
 
 # Meetings
 brew install --cask zoom
 brew install --cask teamviewer
 brew install --cask tencent-meeting
-#mas install # VooV Meeting
-#brew install --cask webex
+mas install 1497685373 # VooV Meeting
+brew install --cask webex
 
 # Media
 brew install --cask vlc
@@ -53,7 +53,7 @@ brew install --cask dropbox
 brew install --cask iterm2
 brew install --cask jetbrains-toolbox
 brew install --cask docker
-#mas install # Xcode
+mas install 497799835 # Xcode
 brew install --cask mamp
 brew install --cask visual-studio-code
 brew install --cask virtualbox
@@ -63,7 +63,5 @@ brew install --cask tunnelblick
 brew install --cask setapp
 
 # Office
-#mas install # Keynote
+mas install 409183694 # Keynote
 # Microsoft Office
-
-
