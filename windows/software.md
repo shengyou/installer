@@ -7,40 +7,41 @@
 * IMs
   - LINE
   - Slack
-  - WeChat
+  - WeChat (**failed**)
   - Telegram Desktop
   - Microsoft Teams
-  - 钉钉
-  - 腾讯 QQ
+  - 钉钉 (**failed**)
+  - 腾讯 QQ (**failed**)
 * Meeting
   - Zoom
   - Teamviewer
   - 腾讯会议
 * Media
   - VLC
-  - Spotify
 * Life
   - 7-Zip
   - Foxit Reader
-  - NordVPN
+  - NordVPN (**failed**)
   - Toggl
-  - 1Password
+  - 1Password (**failed**)
   - Notion
   - Anki
 * Screenshot & Recording
-  - Camtasia
+  - Camtasia (**failed**)
   - Snagit
 * Network disc
-  - Google Drive Desktop
-  - Dropbox
+  - Google Drive (**failed**)
+  - Dropbox (don't need)
 * Development tools
   - JetBrains Toolbox App
   - Docker Desktop
-* Software that install from Windows Store
+* Software that install from Microsoft Store
   - Windows Terminal
-  - WSL (Ubuntu)
+  - Spotify
   - Netflix
-* Software that install manually
+  - Ubuntu
+* Software that need to install manually
   - Microsoft Office
   - JetBrains IDEs by Toolbox app
+  - WSL 2 ([En](https://docs.microsoft.com/en-us/windows/wsl/install-win10#manual-installation-steps) | [Zh](https://docs.microsoft.com/zh-tw/windows/wsl/install-win10#manual-installation-steps))
   - WD Discovery
