@@ -1,14 +1,20 @@
-# Installer for macOS 
+# Installer for macOS
 
-## BACKUP first before we re-install
+## Overall strategy
 
-* ~/dotfile (ssh key, config, zsh…)
+* Clean installation of macOS (Big sur or Monterey).
+* Install software using [Homebrew](https://brew.sh/).
+* Install SDKs using dedicated tools (Homebrew, SDKMAN).
+* Install others manually.
+
+## BACKUP first before we install anything
 
 * Desktop
 * Downloads
-* IDE Workspace
-* Dropbox
+* Workspace for IDEs
+* Other folders under user's home (~/) 
 
+* dotfiles (ssh key, config, zsh…)
 * ~/Library/Colors
 
 * Trainings
@@ -20,8 +26,13 @@
 
 ## Pre-requirements
 
-* Erase machine and re-install macOS by reference this guide ([en](https://support.apple.com/en-us/HT204904) | [zh](https://support.apple.com/zh-tw/HT204904)).
-* Finish the macOS installation (Apple ID, Apple Pay, Google account, etc.).
+* **Optional**: disable Activation lock
+  - Follow this guide ([en-us](https://support.apple.com/en-us/HT206989) | [zh-tw](https://support.apple.com/zh-tw/HT206989)) if we can't use internet recovery.
+* **Recommend**: plug ethernet cables for internet access, it's faster and more convenience. Don't spend time to config the wireless password.
+* Reboot mac and hold `Option-Command-R`.
+* Must **ERASE** entire disk for **CLEAN INSTALLATION**, follow this guide ([en-us](https://support.apple.com/zh-tw/HT208496) | [zh-tw](https://support.apple.com/zh-tw/HT208496)).
+* Install the latest macOS by following this guide ([en](https://support.apple.com/en-us/HT204904) | [zh](https://support.apple.com/zh-tw/HT204904)).
+* Finish the installation process (setup Apple ID, Touch ID, Google account, etc.).
 
 ## Install Homebrew
 
@@ -32,7 +43,10 @@
 * Install [software](software.md) using [bash script](install-software.sh).
 * Install [SDKs](sdks.md) using [bash script](install-sdks.sh)
 
-## Input Method
+## Install Boshiamy
+
+* Download the latest installer from official website
+* Install Boshiamy and setup input method on macOS
 
 * https://journal.travelhackfun.com/2021/05/27/%E5%98%B8%E8%9D%A6%E7%B1%B3mac-os%E5%AE%89%E8%A3%9D-%E5%8F%AA%E8%A6%815%E5%88%86%E9%90%98%EF%BC%8C%E5%9C%A8mac-os%E4%B8%8A%E5%85%8D%E8%B2%BB%E4%BD%BF%E7%94%A8openvanilla%E6%B0%B8%E4%B9%85%E5%AE%89/
 * https://vocus.cc/article/5f9fd5c3fd89780001d1ca4b
