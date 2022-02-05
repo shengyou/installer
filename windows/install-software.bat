@@ -1,6 +1,11 @@
-:: Software installer for Windows 10
+:: Install software on Windows
 
 :: https://stackoverflow.com/questions/69068/split-long-commands-in-multiple-lines-through-windows-batch-file
+
+:: Install git first
+
+:: WSL & Docker
+
 
 :: Browsers
 choco install --yes googlechrome^

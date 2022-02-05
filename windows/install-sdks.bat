@@ -1,7 +1,4 @@
-:: SDKs installer for Windows 10
-
-:: Git
-scoop install git
+:: Install SDKs using Scoop
 
 :: Improve download speed
 scoop install aria2
@@ -18,3 +15,7 @@ scoop install ffmpeg
 :: JDKs
 scoop bucket add java
 scoop install openjdk
+
+:: PHP
+
+:: Node
