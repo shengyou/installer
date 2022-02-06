@@ -2,32 +2,61 @@
 
 :: https://stackoverflow.com/questions/69068/split-long-commands-in-multiple-lines-through-windows-batch-file
 
-:: Install git first
-
-:: WSL & Docker
-
+:: Drivers
+::winget install Logitech.UnifyingSoftware
+::winget install Logitech.Options
 
 :: Browsers
-choco install --yes googlechrome^
- firefox^
+winget install Google.Chrome
+winget install Mozilla.Firefox
+winget install BraveSoftware.BraveBrowser
 
 :: IMs
-choco install --yes line slack telegram microsoft-teams whatsapp wechat dingtalk tencentqq
+winget install LINE.LINE
+winget install Telegram.TelegramDesktop
+winget install SlackTechnologies.Slack
+winget install Discord.Discord
+::winget install Microsoft.Teams
+winget install WhatsApp.WhatsApp
+winget install Tencent.WeChat
+winget install Alibaba.DingTalk
+winget install Tencent.QQ
 
 :: Meeting
-choco install --yes zoom teamviewer tencentmeeting
+winget install Zoom.Zoom
+winget install Tencent.TencentMeeting
+::winget install TeamViewer.TeamViewer
 
-:: Media
-choco install --yes vlc spotify
+:: Multimedia
+::winget install Spotify.Spotify
+winget install VideoLAN.VLC
+
+:: Streaming
+winget install OBSProject.OBSStudio
+winget install Streamlabs.StreamlabsOBS
+
+:: Converting
+winget install HandBrake.HandBrake
 
 :: Life
-choco install --yes 7zip foxitreader nordvpn toggl 1password notion anki
-
-:: Screenshot & Recording
-choco install --yes camtasia snagit
+winget install Foxit.FoxitReader
+winget install NordVPN.NordVPN
+winget install Toggl.TogglDesktop
+winget install AgileBits.1Password
+winget install Notion.Notion
+winget install Anki.Anki
 
 :: Network disc
-choco install --yes googledrive dropbox
+winget install Google.Drive
+::winget install Dropbox.Dropbox
+
+:: Docker
+winget install Docker.DockerDesktop
 
 :: Development tools
-choco install --yes jetbrainstoolbox docker-desktop
+winget install JetBrains.Toolbox
+winget install Microsoft.VisualStudioCode
+
+:: Screenshot & Recording
+winget install TechSmith.Camtasia
+winget install TechSmith.Snagit
