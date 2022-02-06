@@ -28,6 +28,7 @@
 ## Basic system setup
 
 * Setup theme, trackpad, bluetooth, etc.
+* Enable [Hibernate Mode](https://www.groovypost.com/howto/enable-or-disable-hibernate-mode-on-windows-11/)
 * Setup language, keyboard, input method
   - Add languages (zh-cn, zh-tw)
   - Download Boshiamy from [official website](https://boshiamy.com/)
