@@ -22,7 +22,7 @@ winget install Tencent.WeChat
 winget install Alibaba.DingTalk
 winget install Tencent.QQ
 
-:: Meeting
+:: Meetings
 winget install Zoom.Zoom
 winget install Tencent.TencentMeeting
 ::winget install TeamViewer.TeamViewer
@@ -31,9 +31,16 @@ winget install Tencent.TencentMeeting
 ::winget install Spotify.Spotify
 winget install VideoLAN.VLC
 
+:: Screenshot & Recording
+winget install TechSmith.Camtasia
+winget install TechSmith.Snagit
+
 :: Streaming
 winget install OBSProject.OBSStudio
 winget install Streamlabs.StreamlabsOBS
+
+:: Video Editing
+:: Davinci Resolve
 
 :: Converting
 winget install HandBrake.HandBrake
@@ -56,7 +63,3 @@ winget install Docker.DockerDesktop
 :: Development tools
 winget install JetBrains.Toolbox
 winget install Microsoft.VisualStudioCode
-
-:: Screenshot & Recording
-winget install TechSmith.Camtasia
-winget install TechSmith.Snagit

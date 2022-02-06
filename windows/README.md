@@ -31,7 +31,7 @@
 * Setup language, keyboard, input method
   - Add languages (zh-cn, zh-tw)
   - Download Boshiamy from [official website](https://boshiamy.com/)
-  - Install and setup input method on Windows
+  - Install and setup input method
 * Setup [WSL 2](https://docs.microsoft.com/en-us/windows/wsl/install)
   - Run Windows Terminal as administrator
   - Run the command below
@@ -83,7 +83,7 @@
 * Setup & sync Dropbox
   - Workspace for IDEs
 * Setup Google Drive
-* Install/setup WD Discovery
+* Install/setup [WD Discovery](https://support.wdc.com/downloads.aspx?p=293)
 
 ## Reference
 
