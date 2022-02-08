@@ -33,6 +33,10 @@
   - Add languages (zh-cn, zh-tw)
   - Download Boshiamy from [official website](https://boshiamy.com/)
   - Install and setup input method
+* Install printer & scanner
+    - Add printer using built-in driver, check this [video](https://www.youtube.com/watch?v=UDvTU_X9g2I)
+    - ~~Don't need to download the driver from [official website](https://support.brother.com/g/b/downloadlist.aspx?c=tw&lang=en&prod=mfc1910w_eu_as&os=10068&flang=English)~~
+    - How to scan document on Windows? check this [video](https://www.youtube.com/watch?v=8LtVTCvrYhA)
 * Setup [WSL 2](https://docs.microsoft.com/en-us/windows/wsl/install)
   - Run Windows Terminal as administrator
   - Run the command below

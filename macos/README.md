@@ -48,7 +48,7 @@
 * Install printer & scanner
   - Download driver from [official website](https://support.brother.com/g/b/downloadlist.aspx?c=tw&lang=en&prod=mfc1910w_eu_as&os=10072&flang=English)
   - Install printer driver and scanner driver separately
-  - Add printer and driver
+  - Add printer in System Preference
 * Install [Homebrew](https://brew.sh/) for automation.
   ```
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
