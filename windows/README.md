@@ -29,6 +29,7 @@
 
 * Setup theme, trackpad, bluetooth, etc.
 * Enable [Hibernate Mode](https://www.groovypost.com/howto/enable-or-disable-hibernate-mode-on-windows-11/)
+* Pin `Download` folder [on taskbar](https://www.makeuseof.com/windows-11-taskbar-pin-almost-anything/#how-to-pin-a-folder-to-windows-11-39-s-taskbar)
 * Setup language, keyboard, input method
   - Add languages (zh-cn, zh-tw)
   - Download Boshiamy from [official website](https://boshiamy.com/)
