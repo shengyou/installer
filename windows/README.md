@@ -113,3 +113,8 @@
   - [https://www.facebook.com/will.fans/videos/1534435513578893](https://www.facebook.com/will.fans/videos/1534435513578893)
 * 軟體安裝清單
   - [https://blog.miniasp.com/post/2017/09/13/Will-2017-Ultimate-Developer-Tool-Software-List](https://blog.miniasp.com/post/2017/09/13/Will-2017-Ultimate-Developer-Tool-Software-List)
+* 調整快速鍵
+  - [Keyboard Shortcut to Cycle through Windows of same Application in Windows](https://stackoverflow.com/questions/11175261/keyboard-shortcut-to-cycle-through-windows-of-same-application-in-windows-7)
+  - [Easy Window Switcher](https://neosmart.net/EasySwitch/)
+  - [Shortcut in Windows 7 to switch between same application's windows, like Cmd + ` in OS X](https://superuser.com/questions/435602/shortcut-in-windows-7-to-switch-between-same-applications-windows-like-cmd)
+  - [AutoHotkey](https://www.autohotkey.com/)
