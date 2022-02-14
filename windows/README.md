@@ -54,6 +54,16 @@
   ```
   Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://get.scoop.sh')
   ```
+* Install [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/)
+  - Using winget
+    ```shell
+    winget install Microsoft.PowerToys --source winget
+    ```
+  - Remap shortcut
+    * Home
+    * End
+    * Ctrl + Home
+    * Ctrl + End
 
 ## Install software & SDKs
 
