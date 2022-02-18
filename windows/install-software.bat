@@ -46,6 +46,7 @@ winget install Streamlabs.StreamlabsOBS
 winget install HandBrake.HandBrake
 
 :: Life
+winget install 7zip.7zip
 winget install Foxit.FoxitReader
 winget install NordVPN.NordVPN
 winget install Toggl.TogglDesktop

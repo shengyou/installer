@@ -6,9 +6,6 @@ scoop install git
 :: Improve download speed
 scoop install aria2
 
-:: Compress
-scoop install 7zip
-
 :: Useful command
 scoop install curl wget
 
