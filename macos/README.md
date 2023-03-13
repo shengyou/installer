@@ -83,7 +83,11 @@
 * Setup & sync Dropbox
   - Workspace for IDEs
 * Setup Google Drive
-* Install/setup [WD Discovery](https://support.wdc.com/downloads.aspx?p=293#WD_softwaremac)
+* Setup WD external drive
+  - The desktop add of WD discovery [is reaching end of support](https://support-zh.wd.com/app/answers/detailweb/a_id/50377) 
+  - Follow [this article to remove the client app](https://support-en.wd.com/app/answers/detailweb/a_id/4158)
+  - [Enable and Access My Cloud Home Data on the Local Network](https://support-en.wd.com/app/answers/detailweb/a_id/50523) Guided Assist or [this one](https://support-en.wd.com/app/answers/detailweb/a_id/34991)
+  - Map an SMB Drive on macOS for My Cloud Home [by referencing this instruction](https://support-en.wd.com/app/answers/detailweb/a_id/24148)
 
 ## Boshiamy alternative
 
