@@ -5,8 +5,10 @@ brew install mas
 mas signin "<Apple ID>" # it's broken
 
 # iTerm and Alfred first, PLEASE
-brew install --cask iterm2
-brew install --cask alfred
+#brew install --cask iterm2
+#brew install --cask alfred
+brew install --cask warp
+brew install --cask raycast
 
 # Browsers
 brew install --cask google-chrome
