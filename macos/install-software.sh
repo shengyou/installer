@@ -5,7 +5,7 @@
 # mas signin "<Apple ID>" # it's broken
 
 # install SetApp
- 
+brew install --cask setapp
 
 # Termianl and Launcher first, PLEASE
 brew install --cask warp
