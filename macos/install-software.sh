@@ -4,6 +4,9 @@
 # brew install mas
 # mas signin "<Apple ID>" # it's broken
 
+# install SetApp
+ 
+
 # Termianl and Launcher first, PLEASE
 brew install --cask warp
 brew install --cask raycast
