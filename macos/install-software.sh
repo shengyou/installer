@@ -59,6 +59,7 @@ brew install --cask handbrake
 brew install --cask 1password
 brew install --cask notion
 brew install --cask keka
+brew install --cask the-unarchiver
 brew install --cask toggl-track
 brew install --cask anki
 
