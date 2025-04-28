@@ -26,7 +26,10 @@ brew install --cask signal
 brew install --cask discord
 brew install --cask microsoft-teams
 brew install --cask skype
-mas install 836500024 # WeChat
+brew install --cask wechat # 微信 (WeChat)
+# mas install 836500024 # 微信 App Store 版
+brew install --cask wechatwork # 企业微信 (WeCom)
+brew install --cask wechatwebdevtools # 微信小程序开发工具
 mas install 451108668 # 腾讯 QQ
 mas install 1435447041 # 钉钉 DingTalk
 
